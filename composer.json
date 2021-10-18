@@ -1,0 +1,13 @@
+{
+  "name": "rafaelbernard/blog-m2m-middleware",
+  "autoload": {
+    "psr-4": {
+      "": "src"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.3",
+    "psr/cache": "^2",
+    "symfony/cache": "^5.3"
+  }
+}
